@@ -1,4 +1,4 @@
 # MusicGame-APP
 提供喜歡打音遊機台的好程式
 
-MIT For APP Inventer
+MIT For APP Inventor 2
