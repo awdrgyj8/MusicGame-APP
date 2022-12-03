@@ -1,5 +1,5 @@
 # MusicGame APP
-提供喜歡打音遊機台的好程式
+音樂遊戲機台NET整合
 
 <img src="./docs/APP.gif" width="300">
 
