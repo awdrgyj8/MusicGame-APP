@@ -7,4 +7,4 @@
 ↓直接看圖理解比較快↓**
 
 <img src="./docs/APP.gif" width="300">  
-MIT For APP Inventor 2
+MIT For Niotron
